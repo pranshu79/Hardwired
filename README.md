@@ -27,6 +27,6 @@ A sizeable arena of zoo where we have to run our bot and help visitors to visit 
 
 ## BOT
 
-![This is an image]()
+![This is an image](https://github.com/pranshu79/Hardwired/blob/main/bot_image.jpeg)
 
 

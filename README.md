@@ -16,5 +16,8 @@ A sizeable arena of zoo where we have to run our bot and help visitors to visit 
 - Encoders
 - Car Kit
 
+## Path planning
 
+
+![This is an image]()
 

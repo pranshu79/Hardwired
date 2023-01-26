@@ -19,5 +19,9 @@ A sizeable arena of zoo where we have to run our bot and help visitors to visit 
 ## Path planning
 
 
-![This is an image]()
+![This is an image](https://github.com/pranshu79/Hardwired/blob/main/path.jpeg)
+
+
+![This is an image](https://github.com/pranshu79/Hardwired/blob/main/path2.jpeg)
+
 

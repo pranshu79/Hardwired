@@ -35,4 +35,11 @@ A sizeable arena of zoo where we have to run our bot and help visitors to visit 
 
 There is a setup of overhead camera over the arena which will be used to detect path through semantoic segmentation and animals and snack point through yolov3 model. Djikstra will be used to identify the shortest path for entire journey of bot and an aruco marker would be placed on top of our bot for its orientation and location.
 
+## Team Members
+
+- Pranshu Kedia
+- Divyam Taneja
+- Tanishka Nama
+- Devyan Mishra
+
 
